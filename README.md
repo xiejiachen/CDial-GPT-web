@@ -19,8 +19,6 @@ Run with `python app.py`
 
 #### Demo
 
-a
-
 <img src="img/huazi.PNG" alt="huazi" style="zoom:33%;" />
 
 <img src="img/baba-1599469001402.PNG" alt="baba" style="zoom:33%;" />
